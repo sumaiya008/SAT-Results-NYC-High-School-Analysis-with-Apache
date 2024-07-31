@@ -1,8 +1,6 @@
 # SAT-Results-NYC-High-School-Analysis-with-Apache
 
-SAT Results & NYC High School Directory Analysis
 The purpose of this notebook is to perform an analysis on two extensive CSV files using Apache Spark. 
-The datasets being used are:
 
 ### Datasets:
 Each school is uniquely identified by a DBN code, which should be found in both datasets.
